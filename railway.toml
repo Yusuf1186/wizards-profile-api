@@ -1,0 +1,6 @@
+[build]
+builder = "maven"
+
+[deploy]
+startCommand = "java -jar target/profile-api-0.0.1-SNAPSHOT.jar"
+
